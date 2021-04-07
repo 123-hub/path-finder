@@ -1,7 +1,8 @@
 # path-finder
 This project is totally based on javascript HTML and css..
 
-<img src="Screenshot (168).png" height=400 width=200>
+<img src="Screenshot (168).png" height=600 width=1000>
+<img src="Screenshot (170).png" height=600 width=1000>
 Steps for the program:
 
 1.You will see that 2D grid in which source and destination are selected.
